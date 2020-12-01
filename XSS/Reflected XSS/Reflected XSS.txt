@@ -4,8 +4,6 @@ https://portswigger.net/web-security/cross-site-scripting/contexts
 
 LAB- Reflected XSS into HTML context with nothing encoded
 
-LAB- Stored XSS into HTML context with nothing encoded
-
 LAB- Reflected XSS into HTML context with most tags and attributes blocked
 
 LAB- Reflected XSS into HTML context with all tags blocked except custom ones
